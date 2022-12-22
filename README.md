@@ -25,3 +25,6 @@ Con la finalización de este Certificado Profesional, he adquirido las siguiente
 - Presentaciones efectivas
 
 Queda mucho camino por delante, pero este es un primer paso firme hacia el camino de Analista de Datos.
+
+Aqui mi badges:
+https://www.credly.com/badges/449dae56-6705-45e0-a230-c8f0c4bcc76b/public_url
